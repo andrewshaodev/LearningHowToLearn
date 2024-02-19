@@ -14,7 +14,7 @@ Dr Terrence Sejnowski
 
 [Coursera Class](https://www.coursera.org/learn/learning-how-to-learn)
 
-![bg right height:7in](images/LHTL.jpg)
+![bg right height:7in](https://github.com/andrewshaodev/LearningHowToLearn/blob/main/images/LHTL.jpg?raw=true)
 
 ---
 
