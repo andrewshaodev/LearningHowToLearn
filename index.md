@@ -96,7 +96,7 @@ Math and Science concepts are often more abstract
 
 # Spaced Repetition Technique
 
-![Spaced Repetition](images/spaced-rep.png)
+![Spaced Repetition](https://github.com/andrewshaodev/LearningHowToLearn/blob/main/images/spaced-rep.png?raw=true)
 
 Space out your repetition of learning something, like a problem solving techinque over a number of days
 
@@ -161,7 +161,7 @@ You may need to begin with several mini chunks
 
   ---
 
-![bg height:7in](images/chunking.png)
+![bg height:7in](https://github.com/andrewshaodev/LearningHowToLearn/blob/main/images/chunking.png?raw=true)
 
 ---
 
@@ -232,7 +232,7 @@ Reinforce the concept that just knowing how to use a techinque is not enough, yo
 
 # How to Become a Better Learner
 
-![Molecule](images/molecule.png)
+![Molecule](https://github.com/andrewshaodev/LearningHowToLearn/blob/main/images/molecule.png?raw=true)
 
 ---
 
