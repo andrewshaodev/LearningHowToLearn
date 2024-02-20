@@ -90,7 +90,8 @@ Math and Science concepts are often more abstract
  - Widely believed that we can hold four "chunks" of working memory
  - Humans tend to group items into chunks so it seems our working memory is bigger than it actually is
  - Need to constantly repeat items to keep in working memory
- - Shutting your eyes reduces other items that allows you to keep Working Memory items in place
+
+:bulb: Shutting your eyes reduces other items that allows you to keep Working Memory items in place
 
 ---
 
@@ -98,7 +99,7 @@ Math and Science concepts are often more abstract
 
 ![Spaced Repetition](https://github.com/andrewshaodev/LearningHowToLearn/blob/main/images/spaced-rep.png?raw=true)
 
-Space out your repetition of learning something, like a problem solving techinque over a number of days
+Space out your repetition of learning something, like a problem solving technique over a number of days
 
 - Researchers have found that trying to repeatedly remember the same thing in one day is less effective than repeating it once over several days
 
@@ -110,7 +111,7 @@ When you are awake, your brain creates toxins
 
 Sleeping allows your brain cells to shrink, allowing the toxins to be washed out
 
-While you are sleeping, your brain tidies up ideas and concepts you're thinking about and learning, and strengthens ideas you need or want to remember (defragging)
+While you are sleeping, your brain tidies up ideas and concepts you're thinking about and learning, and strengthens ideas you need or want to remember
 
 If you stop right after sleeping for the night, or taking a nap, you have an increased chance of dreaming about it
 
@@ -157,7 +158,7 @@ You may need to begin with several mini chunks
 1. Focus your undivided attention on the information you want to Chunk
 2. Understand the basic idea of what you are trying to chunk
 3. Begin gaining context, so you can see not just how but also when to use this chunk.
-  * This allows you to be able to understand when to use the new information you gained, and also when *not* to use it
+  - This allows you to be able to understand when to use the new information you gained, and also when *not* to use it
 
   ---
 
@@ -203,7 +204,7 @@ You may also cause the Illusion of Competence.
 
 # Einstellung:
 
-A strongly developed neurual pattern that is already strongly developed may overshadow new ideas that may lead to better outcomes.
+A strongly developed neural pattern that is already  developed may overshadow new ideas that may lead to better outcomes.
 
 Focused modes may prevent you from reaching the more effective or only real solution.
 
@@ -242,7 +243,7 @@ Metaphors/Analogies are very good to use for understanding concepts tying someth
 
 The more visual you make metaphors/analogies, the better in terms of understanding
 
-As you can better understanding where the metaphor becomes too simple or misleading, you can toss them away or create better more accurate ones
+As you gain better understanding and the original metaphor becomes too simple or misleading, you can toss them away or create better, more accurate ones
 
 ---
 
