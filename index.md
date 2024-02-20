@@ -80,7 +80,7 @@ Math and Science concepts are often more abstract
 
 - Like a Storage Warehouse
 - Distributed across different regions in the brain
-- To store an item of long term memory you need to revisit it at least several times
+- To store an item into long term memory you need to revisit it at least several times
 
 ---
 
