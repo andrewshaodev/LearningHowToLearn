@@ -28,6 +28,8 @@ Can derive insights from:
 - Cognitive Psychology
 - Human Evolution
 
+Personal Experience: Linear Algebra
+
 ---
 
 # Modes of Thinking:
@@ -60,7 +62,9 @@ Both Focused and Diffused modes are necessary for learning, alternating back and
 
 Focused brings new information into our brains
 
-Diffuse ties and contextualizes new information with older
+Diffuse ties and contextualizes new information with older, already processed information
+
+:bulb: Converting from Raw to Processed Data?
 
 ---
 
@@ -95,6 +99,8 @@ Math and Science concepts are often more abstract
 
 :bulb: Shutting your eyes reduces other items that allows you to keep Working Memory items in place
 
+RAM vs Disk storage?
+
 ---
 
 # Spaced Repetition Technique
@@ -104,6 +110,8 @@ Math and Science concepts are often more abstract
 Space out your repetition of learning something, like a problem solving technique over a number of days
 
 - Researchers have found that trying to repeatedly remember the same thing in one day is less effective than repeating it once over several days
+
+:bulb: Sliding Window?
 
 ---
 
@@ -140,6 +148,8 @@ Example: Chunks are combined individual letters with each other to create words:
 Chunking helps your brain run more efficiently (actively encouraging your brain to chunk can be useful)
 
 When you are under stress, you lose the ability to make some of these connections
+
+Example: Letters to Sentences to Paragraph, etc
 
 ---
 
@@ -184,11 +194,15 @@ People enhance their knowledge and expertise by gradually building chunks in the
 
 The more Chunks in your mental library, whatever subject your learning, the more easily you'll be able to solve problems in other fields
 
+:bulb: More tools in the toolbox
+
 ---
 
 # Transfer: 
 
 The ability to relate one Chunk to another, not necessarily in the same field, but also in other fields. This allows a shortcut to understanding new ideas.
+
+:bulb: Math function vs Program function
 
 ---
 
@@ -212,6 +226,8 @@ Focused modes may prevent you from reaching the more effective or only real solu
 
 You sometimes need to unlearn a misconception that is already strongly formed in your mind.
 
+How do you realize you have misconceptions, or establish a baseline to unlearning something?
+
 ---
 
 # Interleaving:
@@ -227,7 +243,7 @@ The best way to learn that is by practicing jumping back and forth between probl
 
 In science and math in particular it can help to look ahead at the more varied problem sets that are sometimes found at the end of chapters.
 
-Or you can deliberately try to make yourself occasionally pick out why some problems call for one technique as opposed to another.
+You can deliberately try to make yourself occasionally pick out why some problems call for one technique as opposed to another.
 
 Reinforce the concept that just knowing how to use a techinque is not enough, you also need to use it for the right context.
 
@@ -253,3 +269,16 @@ It can be helpful if you pretend that you are the concept you are trying to unde
 
 Stories, even silly ones that are memory tricks without any context to the concept you are trying to learn, can help with your learning
 
+---
+# Questions?
+
+
+[Link to Github for Presentation](https://github.com/andrewshaodev/LearningHowToLearn)
+
+What was not covered:
+
+Procrastination
+
+Memorization Methods
+
+Value of Physical Exercise for brain health
