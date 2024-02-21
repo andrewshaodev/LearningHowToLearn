@@ -76,6 +76,8 @@ Math and Science concepts are often more abstract
 
 ---
 
+# Long Term vs Working Memory
+
 # Long Term Memory
 
 - Like a Storage Warehouse
